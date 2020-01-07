@@ -132,3 +132,4 @@ dmypy.json
 .ipynb_checkpoints
 
 # Mac jetsam
+.DS_Store
