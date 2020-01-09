@@ -1,0 +1,26 @@
+A hypothesis test is performed of the null hypothesis. The P-value turns out to be 3.325e-68. The result is statistically significant because the P-value is extremely small. Therefore, we can reject the null hypothesis. 
+
+MAIN NULL HYPOTHESIS:  
+
+- There is no relationship between sea level height and carbon dioxide.
+
+MAIN ALTERNATE HYPOTHESIS: 
+
+- If there is an increase in carbon dioxide, then there is an increase in sea level height. 
+
+METHODS: 
+
+- Performed t-tests on 4 sets of independent samples
+- Ran linear regression for each set of samples
+- Obtained Pearson correlation coefficient to show strength of linear relationship.
+
+DISCUSSION:
+
+- Findings
+- Potential methods 
+- Compare multiple locations to find common trends
+- Utilize other factors that could disprove the null hypothesis.
+
+CONCLUSION: 
+
+- 
