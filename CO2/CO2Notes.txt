@@ -1,0 +1,25 @@
+Null Hypothesis:
+There is no correlation between CO2 levels and water temperatures. 
+CO2 levels won't increase yearly by more than 0.5 PPM per year.
+
+Observations:
+
+Figure 1: CO2 levels have increased rapidly since 1970
+
+T-test: T-test between CO2 and Water Temps returns a p-value of -4.69 which indicates a higher probability of proving wrong our null hypothesis that there is no correlation between the two.
+
+Figure 2: Average CO2 levels and water temperatures have both risen over the years by a significant amount. The water temps are displayed as well as a poly line to show a more general trend. Since about 2010 the rate appears to have accelerated in water temperatures rising. 
+
+Figure 3: Linear regression model shows general trend of CO2 levels.
+
+Figure 4: Linear regression model also shows a general trend of water temperatures increasing. 
+
+Figure 5: We plot our poly line vs linear regression model to further show that water temperatures have began to surpass the trend.
+
+Total increase of averages from 1969 to 2018:
+CO2:  83.086667
+Surf_Temp: 2.413266
+
+Average change:
+Using list comprehension to calculate average change, we find that on average there was a 1.69(PPM)  increase in CO2 proving our other null hypothesis wrong.
+
