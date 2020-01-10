@@ -23,3 +23,8 @@ Surf_Temp: 2.413266
 Average change:
 Using list comprehension to calculate average change, we find that on average there was a 1.69(PPM)  increase in CO2 proving our other null hypothesis wrong.
 
+Conclusions:
+The data shows a clear trend that CO2 levels have risen significantly and from the looks of it, will continue to rise. While the water temperatures have been volatile, our linear regression model still shows a trend of increasing temperatures. This is interesting when plotted alongside the rising CO2 levels. 
+
+From this we can draw the conclusion that there is a possible correlation between CO2 and water temperatures rising. Regardless, they both seem to keep rising. 
+
