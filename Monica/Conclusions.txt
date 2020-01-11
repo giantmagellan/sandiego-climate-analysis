@@ -1,0 +1,25 @@
+MAIN NULL: 
+There is no relationship between sea level height and carbon dioxide
+ALTERNATE:
+There is a relationship (increase) between carbon dioxide and sea level height.
+
+
+Sea level null:
+There is no relationship between mean sea level and tropospheric temperature
+Sea level alternate:
+There is a relationship between mean sea level and tropospheric temperature
+
+Observations: 
+There is a positive linear trend (with a slope of 0.002108130404272146) which
+shows that there has been an increase in MSL during the past 100 years.
+Mean sea level will most likely continue rising with this trend.
+In the temperature figure, there has also been a positive linear trend
+with a slope of 0.027635716440422304.
+There is a possible correlation between MSL and tropospheric temperature 
+as they are both positive with a p value of 5.484664954644351e-70
+and 6.141113628698635e-185 respectively when individual ttests are performed.
+Both are statistically significant. 
+
+
+Further data needs to be explored because we cannot find a direct relationship
+between the two factors.
