@@ -1,0 +1,5 @@
+Manifest file for knb-lter-cce.13.1.zip created on Sat Dec 21 12:23:29 MST 2019
+13.1.csv (1813416 bytes)
+knb-lter-cce.13.1.xml (15298 bytes)
+knb-lter-cce.13.1.txt (2811 bytes)
+knb-lter-cce.13.1.report.xml (22510 bytes)
