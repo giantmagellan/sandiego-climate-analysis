@@ -16,7 +16,7 @@ We obtained data for the following: water temperature, sea level height, atmosph
 
 DISCUSSION:
 
-1.From 1849 to 2013, the slope of the San Diego and global temperature trend is 0.0048 and 0.0068 degrees (C) per year, respectively.  Both trends are positive, albeit different. From 1969 to 2019, the slope of the San Diego temperature trend is 0.0276 degrees (C) per year. 
+1. From 1849 to 2013, the slope of the San Diego and global temperature trend is 0.0048 and 0.0068 degrees (C) per year, respectively.  Both trends are positive, albeit different. From 1969 to 2019, the slope of the San Diego temperature trend is 0.0276 degrees (C) per year. 
 										(0.0276 ÷ 0.0048 = 5.75)
 The global temperature is the average of the temperatures reported by 10 countries, which are located in the four world quadrants. 
  
